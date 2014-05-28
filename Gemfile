@@ -24,7 +24,7 @@ end
 
 group :development, :test do
 	gem 'ruby-debug19', :require => 'ruby-debug'
-	gem 'sqlite3'
+	gem 'PostgreSQL'
 	gem 'thin'
 end
 
